@@ -1,5 +1,5 @@
 # CommandOS
-CommandOS is a command line OS in python. Feel free to upgrade it ! I will post the 1.0 when I'm gonna find the time for that.
+CommandOS is a command line OS in python. Feel free to upgrade it ! I will post the 1.0 this weekend.
 
 To-do list :
 * Finish the math command
