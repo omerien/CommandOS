@@ -1,4 +1,5 @@
 # CommandOS
+[![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
 CommandOS is a command line OS in python. Feel free to upgrade it ! I will post the 1.0 this weekend.
 
 To-do list :
