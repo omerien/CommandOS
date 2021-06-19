@@ -7,4 +7,4 @@ To-do list :
 * Do a login command
 * Do a settings command
 
-PS: For the future, please put the file in a specific folder named "CommandOS", to allow the code to put his files not everywhere.
+PS: For the future, please put the file in a specific folder named "CommandOS", to allow the code to put his files.
