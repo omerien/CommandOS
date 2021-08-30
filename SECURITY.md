@@ -12,4 +12,4 @@
 To report a vulnerability, please go on Issues page and report the error with :
  - The steps to reproduce the error
  - What does the error ?
- - Your setup (Tell your version of the script, the OS you have (Windows, Mac OS or Linux/Ubuntu/... and your configuration files of the script if asked)
+ - Your setup (Tell your version of the script, the OS you have (Windows, Mac OS or Linux...) and your configuration files of the script if asked)
