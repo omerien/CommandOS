@@ -1,6 +1,6 @@
 ![CommandOS](https://user-images.githubusercontent.com/53191414/122648243-9abe6c80-d128-11eb-8c9f-c029730289aa.png)
 # CommandOS
-CommandOS is a command line OS in python. Feel free to upgrade it ! I will post the 1.0 this weekend.
+CommandOS is a command line OS in python. Feel free to upgrade it !
 
 Implemented features :
 * A tip system
