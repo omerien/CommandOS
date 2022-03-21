@@ -2,14 +2,18 @@
 # CommandOS
 CommandOS is a command line OS in python. Feel free to upgrade it !
 
-Implemented features :
+Installing:
+
+So uh basically you run it with python, there isn't dependancies outside python pre-installed packages.
+
+Implemented features:
 * A tip system
 * An help and a credits command
 * A language system (2 languages provided)
 * An exit system (to exit the script)
+* A math command
 
-To-do list :
-* Finish the math command
+To-do list:
 * Do the date command
 * Do a login command
 * Do a settings command
